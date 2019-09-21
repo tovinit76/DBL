@@ -90,7 +90,7 @@ jhipster:
   security:
     remember-me:
       # security key (this key should be unique for your application, and kept secret)
-      key: 7bf31115dd76f52b3351ff5238337434734b52a333e5f6a0f8f148d79d783766b0e97c16840794a613a0e19f8afb6fbb7dcd
+      key: 764c8703722c90996756eec3a8b30abb2d614e37e90d949d0fe912b46565946b0841df950e9707b3b84ef137d941a8881ff6
   mail: # specific JHipster mail property, for standard properties see MailProperties
     base-url: http://127.0.0.1:8080
   metrics:
